@@ -21,12 +21,13 @@ Welcome to the Cognizant Digital Nurture 3.0 - Java Full Stack Engineer (FSE) re
 ## Overview
 This repository is a comprehensive collection of all the assignments and projects for the Cognizant Digital Nurture 3.0 program. The program runs for five weeks, covering various aspects of Java Full Stack Engineering, including hands-on exercises and theoretical learning. 
 
-
+https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%202/PL_SQL
 
 ## Weekly Assignment Answers
 - [Week 1 Algorithms and Data Structures](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%201/Algorithms%20Data%20Structure)
 - [Week 1 Design Patterns and Principles](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%201/Design%20Patterns%20and%20Principles)
-
+- [Week 2 PL/SQL ](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%202/PL_SQL)
+  
 
 ## Program Structure
 The deep-skilling program is structured into weekly modules, each focusing on different key areas. The following is a brief overview of the weekly topics and assignments:
