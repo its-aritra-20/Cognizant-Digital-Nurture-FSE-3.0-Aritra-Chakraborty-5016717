@@ -27,7 +27,8 @@ https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakra
 - [Week 1 Algorithms and Data Structures](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%201/Algorithms%20Data%20Structure)
 - [Week 1 Design Patterns and Principles](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%201/Design%20Patterns%20and%20Principles)
 - [Week 2 PL/SQL ](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%202/PL_SQL)
-- [Week 2 Spring Core and Maven] (https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%202/Spring%20Core_Maven) 
+- [Week 2 Spring Core and Maven ](https://github.com/its-aritra-20/Cognizant-Digital-Nurture-FSE-3.0-Aritra-Chakraborty-5016717/tree/main/Week%202/Spring%20Core_Maven)
+
   
 
 ## Program Structure
